@@ -1,0 +1,48 @@
+body {
+    background-image: url(file://///server/Skoleni/7.a/Marta%20Megija%20Romanova/datorikas%20drabs/closeup-old-paper-texture-age-marks-29969606.jpg);
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(15, 43, 199);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 40px;
+}
+
+.noapalots{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.apmale{
+    border: 30px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    padding:5px;
+    width: 500px;
+    margin-left:55%;
+}
